@@ -1,7 +1,7 @@
 [
     {
         "Name": "colorama",                   # 上游开源软件名全称
-        "License": "Khronos License1",         # 上游开源软件中包含的许可证信息
+        "License": "BSD-3-Clause",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt",      # 许可证所在文件路径
         "Version Number": "799604a1041e9b3bc5d2789ecbd7e8db2e18e6b8",
         "Owner": "liujixin@huawei.com",
