@@ -69,7 +69,7 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                 <filteritem type="filepath" name="CHANGELOG.rst"
-                desc="chromium原生文件无license" />
+                    desc="chromium原生文件无license" />
             </filefilter>
 
             <filefilter name="defaultFilter">
@@ -83,7 +83,7 @@ used to filter file path.
         <licensematcherlist>
             <licensematcher name="BSD 3-Clause" desc="">
                 <licensetext name="
-                # Copyright Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
+                # Jonathan Hartley 2013. BSD 3-Clause license, see LICENSE file.
                 " desc="" />
             </licensematcher>
         </licensematcherlist>
