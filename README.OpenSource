@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "colorama",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE.txt",
+        "Version Number": "799604a1041e9b3bc5d2789ecbd7e8db2e18e6b8",
+        "Owner": "liujixin@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/colorama.git@799604a1041e9b3bc5d2789ecbd7e8db2e18e6b8",
+        "Description": "第三方软件colorama,显示字体不同的颜色和背景"
+    }
+]
